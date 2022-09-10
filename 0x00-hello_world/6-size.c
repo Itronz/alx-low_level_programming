@@ -9,7 +9,7 @@
  * Description:  with proper grammar, but the outcome is a piece of art
  *
  *
- * Return: Always 0
+ * Return: 0
  *
  */
 
