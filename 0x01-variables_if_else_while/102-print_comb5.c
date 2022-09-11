@@ -16,13 +16,13 @@
 int main(void)
 
 {
-int c;
-int d;
-int e;
-int f = 0;
+	int c;
+	int d;
+	int e;
+	int f = 0;
 
-while (f < 10)
-{
+	while (f < 10)
+	{
 	e = 0;
 	while (e < 10)
 	{
@@ -52,7 +52,7 @@ while (f < 10)
 		e++;
 	}
 	f++;
-}
-putchar('\n');
-return (0);
+	}
+	putchar('\n');
+	return (0);
 }
