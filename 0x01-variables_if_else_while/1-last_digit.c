@@ -11,7 +11,6 @@
 
 
 /**
- *
  * main - Find a rand numb and show the last digit
  *
  *
